@@ -1,0 +1,24 @@
+European Food Water	12631413074041
+Electricity Food	62406616001952
+Romanian Food Incorporated	73027342363172
+Electricity Water Food	01397583631811
+European Electricity Romanian	65069798481900
+Romanian Incorporated Food	70616482445790
+Romanian Electricity Incorporated	21231159391818
+European Electricity	01093907426860
+Water European	46203597675469
+Romanian Incorporated	52829253841208
+Food Water	74654861019389
+Romanian European Electricity	78350135703586
+European Water Romanian	06121068012385
+Food Electricity Water	39435488310386
+Romanian Water	99692742734484
+Electricity European	63530002896653
+Electricity Romanian	62313346475068
+Electricity Water European	53636461932872
+Water Incorporated	40855561250910
+Water Food	77775786705086
+Romanian Food	83400437983551
+European Incorporated	12588097406478
+Food Romanian Incorporated	03231785405434
+Incorporated Water Food	94785084816400

@@ -1,0 +1,51 @@
+8832	European Incorporated	spnls xihsz	864.730408	08/04/2020 00:00	03/04/2020 00:00	-	0
+1	Incorporated Water Food	phdps brgad xdtjj	534.195740	12/04/2020 00:00	06/04/2020 13:58	D	0
+10	European Electricity	ydufz	77.858917	11/04/2020 00:00	06/04/2020 00:00	-	0
+9739	Water European	wztim	650.994080	06/04/2020 00:00	05/04/2020 00:00	-	0
+9613	Food Romanian Incorporated	dxlqg	875.716980	12/04/2020 00:00	11/04/2020 00:00	-	0
+1936	Electricity Water European	pywgi	471.453857	11/04/2020 00:00	01/04/2020 00:00	-	0
+8593	Electricity European	pywgi btfob	1457.512329	08/04/2020 00:00	01/04/2020 00:00	-	0
+3473	European Water Romanian	brgad wztim	738.439209	07/04/2020 00:00	06/04/2020 00:00	-	0
+8979	Romanian Electricity Incorporated	gtirt	966.484070	12/04/2020 00:00	03/04/2020 00:00	-	0
+659	Romanian Water	wqzii	232.151367	12/04/2020 00:00	07/04/2020 00:00	-	0
+8726	Romanian Incorporated	ywlfc mqdto	1087.619629	07/04/2020 00:00	05/04/2020 00:00	-	0
+3734	European Electricity	idsqd	42.110779	06/04/2020 00:00	03/04/2020 00:00	-	0
+6171	Food Romanian Incorporated	spnls liiwo wztim	1569.929443	11/04/2020 00:00	06/04/2020 12:51	-	0
+6302	Water Incorporated	dldle oqgap fhtry	2296.644775	09/04/2020 00:00	06/04/2020 00:00	-	0
+1567	Electricity Water Food	idsqd mqdto	990.781311	07/04/2020 00:00	04/04/2020 00:00	-	0
+3103	Romanian European Electricity	heqop idsqd yucrh	695.158630	06/04/2020 00:00	01/04/2020 00:00	-	0
+5793	Incorporated Water Food	hokzt qssgj wqzii	431.027008	12/04/2020 00:00	06/04/2020 13:55	-	0
+3622	Water Incorporated	btfob tpcpc ogyuv	2004.586914	11/04/2020 00:00	03/04/2020 00:00	-	0
+5288	European Electricity	ywlfc qssgj	249.409927	12/04/2020 00:00	05/04/2020 00:00	-	0
+5163	European Food Water	wxsws jwkcj	279.232117	12/04/2020 00:00	03/04/2020 00:00	-	0
+4652	Romanian European Electricity	awnvp msdtc qssgj	762.241333	12/04/2020 00:00	10/04/2020 00:00	-	0
+5294	Romanian Food	eoogz ydufz	826.153137	12/04/2020 00:00	09/04/2020 00:00	-	0
+2223	Romanian European Electricity	uhckl	892.125916	11/04/2020 00:00	08/04/2020 00:00	-	0
+7985	Romanian Incorporated	msdtc sxnet nmegs	1994.616821	10/04/2020 00:00	01/04/2020 00:00	-	0
+7861	Romanian Food	tpcpc djdov	1392.199829	08/04/2020 00:00	03/04/2020 00:00	-	0
+5304	Romanian European Electricity	nmqlk fhtry	1018.492310	11/04/2020 00:00	02/04/2020 00:00	-	0
+190	European Food Water	oqgap hokzt	961.359314	10/04/2020 00:00	09/04/2020 00:00	-	0
+5442	Romanian Food Incorporated	tccua ywlfc	859.135803	06/04/2020 00:00	01/04/2020 00:00	-	0
+1602	European Electricity Romanian	dxlqg gtirt ydufz	1920.059937	11/04/2020 00:00	08/04/2020 00:00	-	0
+4296	Food Water	wztim	650.994080	12/04/2020 00:00	03/04/2020 00:00	-	0
+9292	Romanian Food Incorporated	idsqd updhp	244.477844	12/04/2020 00:00	09/04/2020 00:00	-	0
+2765	Electricity Romanian	phdps jwkcj vgclk	779.794678	08/04/2020 00:00	-	1
+7629	European Electricity Romanian	vgclk heqop gtirt	1713.782715	12/04/2020 00:00	01/04/2020 00:00	-	0
+8910	Romanian Water	liiwo	214.509537	08/04/2020 00:00	04/04/2020 00:00	-	0
+1615	Food Romanian Incorporated	vgclk	524.412109	10/04/2020 00:00	01/04/2020 00:00	-	0
+8272	Food Electricity Water	fcmdh hokzt eazqa	1708.111328	10/04/2020 00:00	09/04/2020 00:00	-	0
+1107	Romanian Incorporated Food	jjwed	204.755676	12/04/2020 00:00	03/04/2020 00:00	-	0
+5974	Food Electricity Water	ceaxq spnls	1117.874390	09/04/2020 00:00	03/04/2020 00:00	-	0
+6230	Electricity Romanian	fcmdh uhckl heqop	1985.826782	09/04/2020 00:00	08/04/2020 00:00	-	0
+9047	Romanian Incorporated	ogyuv awnvp	536.746155	06/04/2020 00:00	02/04/2020 00:00	-	0
+7000	Electricity Water Food	oqgap tccua mqdto	2541.801758	08/04/2020 00:00	07/04/2020 00:00	-	0
+5593	Romanian Water	fcmdh jwkcj spnls	1680.217529	12/04/2020 00:00	-	5
+7137	Incorporated Water Food	phdps brgad xdtjj	534.195740	12/04/2020 00:00	06/04/2020 13:58	-	0
+6116	Electricity Food	dxlqg	875.716980	09/04/2020 00:00	04/04/2020 00:00	-	0
+3428	Food Water	btfob	986.058472	11/04/2020 00:00	10/04/2020 00:00	-	0
+9194	European Water Romanian	liiwo uhckl	1106.635376	06/04/2020 00:00	03/04/2020 00:00	-	0
+6380	Incorporated Water Food	ywlfc uhckl idsqd	1073.185791	09/04/2020 00:00	04/04/2020 00:00	-	0
+2284	European Electricity	yucrh wxsws	604.416138	11/04/2020 00:00	06/04/2020 00:00	-	0
+8305	Water Food	nrsac nmegs fhtry	2180.330322	11/04/2020 00:00	04/04/2020 00:00	-	0
+7670	Electricity Romanian	qssgj dldle	839.408020	12/04/2020 00:00	10/04/2020 00:00	-	0
+3322	Romanian Food	qssgj	110.460831	12/04/2020 00:00	02/04/2020 00:00	-	0
