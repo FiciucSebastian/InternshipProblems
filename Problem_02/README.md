@@ -5,6 +5,7 @@
 - if you do not empty the files, first window will appear
 - if you want to go with persisted data, just press the button for it
 - else if you want to go with new generated data, just write in the text fields how many data you want to generate for every entitiy and press the button to generate
+- if you want a new set of string just write it in the text field for it (the longer one), but if the string you write has less than 8 substrings the program will go with the predefined one
 - if you choose to empty the file, second window will appear instead of first one, because there is no data, but will generate automatically 24 companies, 48 products and 50 invoices
 - in the second window, in left, you have a table with ordered invoices which is initialized when windows appears
 - in right you have a table with filtered invoices which can be initialized after you complete the text field for filtering with a string and press the filter button
